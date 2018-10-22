@@ -1,1 +1,27 @@
-# Empty CSS file for your own CSS
+
+.titulo1{
+	padding: 28px 0 0 0;
+}
+
+.titulo2{
+	padding-bottom: 10px;
+}
+
+.accion{
+	padding: 20px 0 0 0;
+}
+
+.ayuda{
+	text-align: right;
+}
+.bonos{
+	text-align: left;
+}
+
+.ayuda, .bono {
+	padding-top: 0px;
+}
+
+h4{
+	padding-top: 10px;
+}
